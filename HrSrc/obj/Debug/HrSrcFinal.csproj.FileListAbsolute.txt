@@ -1,0 +1,12 @@
+C:\Users\HP PC\documents\visual studio 2010\Projects\HrSrc\HrSrc\bin\HrSrc.dll
+C:\Users\HP PC\documents\visual studio 2010\Projects\HrSrc\HrSrc\bin\HrSrc.pdb
+C:\Users\HP PC\documents\visual studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrc.dll
+C:\Users\HP PC\documents\visual studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrc.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrcFinal.csprojResolveAssemblyReference.cache
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\bin\HrSrc.dll.config
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\bin\HrSrc.dll
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\bin\HrSrc.pdb
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\obj\Debug\HrSrcFinal.csproj.AssemblyReference.cache
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\obj\Debug\HrSrcFinal.csproj.CoreCompileInputs.cache
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\obj\Debug\HrSrc.dll
+W:\19-07-2023\تعافى\البحث\HrSrc\HrSrc\obj\Debug\HrSrc.pdb

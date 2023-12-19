@@ -1,0 +1,5 @@
+c:\users\hp pc\documents\visual studio 2010\Projects\HrSrc\HrSrc\bin\HrSrc.dll
+c:\users\hp pc\documents\visual studio 2010\Projects\HrSrc\HrSrc\bin\HrSrc.pdb
+c:\users\hp pc\documents\visual studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrc.dll
+c:\users\hp pc\documents\visual studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrc.pdb
+C:\Users\HP PC\documents\visual studio 2010\Projects\HrSrc\HrSrc\obj\Debug\HrSrc.csprojResolveAssemblyReference.cache
